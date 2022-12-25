@@ -11,3 +11,4 @@ Ham Vocke https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/.
 - New window ```prefix``` ```c``` then type the new window name or hit enter for default name
 - Split pane horizontally ```prefix``` ```-```
 - Split pane vertically ```prefix``` ```|```
+- Switch Windows with ```shift```, ```<```, ```>``` (arrow keys)
