@@ -12,3 +12,4 @@ Ham Vocke https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/.
 - Split pane horizontally ```prefix``` ```-```
 - Split pane vertically ```prefix``` ```|```
 - Switch Windows with ```shift```, ```<```, ```>``` (arrow keys)
+- Hide/Show status bar ```preix```, ```s```
